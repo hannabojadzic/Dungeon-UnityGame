@@ -1,0 +1,45 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.6909
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\wetan\Downloads\Dungeon\dungeon_game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Panel') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 1.138757 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a2c -> priority: 1 
+  Thread -> id: 4550 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'ironchair') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.536715 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 615.
+Total: 0.952984 ms (FindLiveObjects: 0.080570 ms CreateObjectMapping: 0.049778 ms MarkObjects: 0.460326 ms  DeleteObjects: 0.361795 ms)
+

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af9709afa5e9f3b4eb89b65d7a7380a7
+timeCreated: 1516065248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CrEAtoR cAmpoTYPe SmcP
+  fontNames:
+  - CrEAtoR cAmpoTYPe SmcP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

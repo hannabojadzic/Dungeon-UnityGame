@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7b936aad058644b4884442201041e38c
+timeCreated: 1516065248
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burton's Nightmare
+  fontNames:
+  - Burton's Nightmare
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1dc16fea39861d44bbf3e9391935e32
+timeCreated: 1515870639
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Scary Monsters
+  fontNames:
+  - Scary Monsters
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

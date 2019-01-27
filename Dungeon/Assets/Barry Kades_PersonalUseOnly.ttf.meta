@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b2f8f3c365119e345a5398717f1c1723
+timeCreated: 1515870504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barry Kades_PersonalUseOnly
+  fontNames:
+  - Barry Kades_PersonalUseOnly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
